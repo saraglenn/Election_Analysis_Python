@@ -16,5 +16,11 @@ election_results.csv
 ## Summary 
 The analysis of this election audit show the following: 
 There were 369,711 total votes. 
+
+The candidates:
+Charles Casper Stockham: 23.0% (85,213)
+Diana DeGette: 73.8% (272,892)
+Raymon Anthony Doane: 3.1% (11,606)
+
 Diana DeGette was the winning candidate wtih a total of 272,892 votes, which was 73.8% of the votes. 
 
